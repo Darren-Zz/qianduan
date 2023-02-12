@@ -1,0 +1,7 @@
+for in可用于对象和数组，多用在对象中，获得**对象属性名字**，对于数组则得到0，1，2....
+
+for of只能用于数组，得到**数组每一项的值**。for (let i of obj)会报错
+
+数组有一个特殊情况，在MDN中展示如下：
+
+![image-20230129225714501](C:\Users\zz\AppData\Roaming\Typora\typora-user-images\image-20230129225714501.png)
